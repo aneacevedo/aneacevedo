@@ -1,0 +1,25 @@
+{
+    "name": "portafolio",
+    "version": "1.0.0",
+    "description": "Para conocer sobre mi, mis conocimientos y mi trabajo",
+    "main": "main.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/aneacevedo/aneacevedo.git"
+    },
+    "keywords": [
+        "portfolio",
+        "portafolio",
+        "developer",
+        "front-end"
+    ],
+    "author": "Anelisse Acevedo",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/aneacevedo/aneacevedo/issues"
+    },
+    "homepage": "https://github.com/aneacevedo/aneacevedo#readme"
+}
