@@ -1,0 +1,147 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@400;700&family=Oswald&display=swap');
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-image: url(../img/bg.jpg);
+    background-repeat: no-repeat;
+    height: 100%;
+}
+
+.headerBar {
+    background-color: #fff;
+    width: 100vw;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    /* position: fixed; */
+}
+
+.title {
+    display: flex;
+    /* flex-direction: row; */
+    justify-content: center;
+    font-family: 'Amatic SC';
+    /* margin: 3vh; */
+    color: #3A6AB2;
+    font-size: 3.5rem;
+}
+
+.myName {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    background-color: #fff;
+    margin: 10vh;
+    /* position: absolute; */
+    width: 80vw;
+    height: auto;
+    background: rgba(255, 255, 255, 0.3);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+    backdrop-filter: blur(10px);
+    border-radius: 8px;
+}
+
+.text {
+    width: 100vw;
+    padding: 2rem;
+}
+
+.hello {
+    font-size: 6vh;
+    font-family: 'Amatic SC';
+    color: #fff;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+}
+
+.present {
+    color: #fff;
+    font-size: 4.4vh;
+    font-family: 'Oswald';
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+}
+
+.myMoji {
+    display: flex;
+}
+
+.emoji {
+    height: 40vh;
+    /* margin-top: -8vh; */
+}
+
+.blur-bg {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 10vh;
+    width: 80vw;
+    height: auto;
+    padding: 2vw;
+    background: rgba(255, 255, 255, 0.3);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+    backdrop-filter: blur(10px);
+}
+
+.box-about,
+.habilities-box {
+    width: 80vw;
+    height: 10vh;
+    background: rgba(255, 255, 255, 0.65);
+    box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.25);
+    backdrop-filter: blur(10px);
+    border-radius: 8px 8px 0px 0px;
+}
+
+.lil-title {
+    font-size: 2rem;
+    font-family: 'Oswald';
+    color: #3A6AB2;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    margin-left: 2vw;
+    margin-top: 1vh;
+}
+
+.about-cont {
+    display: flex;
+    flex-direction: column;
+    width: 80vw;
+    height: auto;
+    background: rgba(255, 255, 255, 0.55);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    backdrop-filter: blur(10px);
+    border-radius: 0px 0px 10px 10px;
+}
+
+.innertxt {
+    align-items: center;
+    margin: 2vw;
+    font-family: 'Oswald';
+    font-size: 1.7rem;
+    color: #383836;
+}
+
+.habilities-box {
+    margin-top: 5vh;
+}
+
+.boxes {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin: 1.2rem;
+    font-family: 'Amatic SC';
+    font-weight: bold;
+    font-size: 2rem;
+    color: #FFF;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.list {
+    /* margin: 1.2rem; */
+    border: #fff solid 2px;
+    padding: 1rem;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
