@@ -17,7 +17,7 @@ document.getElementById('root').innerHTML = `
 </div>
 <div class='about-cont'>
 <p class='innertxt'>Mi nombre es Anelisse, pero todos me llaman Ane. Soy desarrolladora Front-end en Santiago de Chile.
-Me formé en como developer en Laboratoria 💛.
+Me formé como developer en Laboratoria 💛.
 <br/>
 Actualmente estoy buscando nuevos proyectos, experiencias y desafíos para continuar mi camino de aprendizaje.
 <br/>
