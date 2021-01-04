@@ -17,7 +17,7 @@ document.getElementById('root').innerHTML = `
 </div>
 <div class='about-cont'>
 <p class='innertxt'>Mi nombre es Anelisse, pero todos me llaman Ane. Soy desarrolladora Front-end en Santiago de Chile.
-Me formé en como developer en Laboratoria 💛.
+Me formé como developer en Laboratoria 💛.
 <br/>
 Actualmente estoy buscando nuevos proyectos, experiencias y desafíos para continuar mi camino de aprendizaje.
 <br/>
@@ -29,10 +29,10 @@ Soy fotógrafa de profesión por lo que llevo años trabajando en el área visua
 ¿Mis cosas favoritas? Los gatos, el cine, la palta y las papas fritas 💜.</p>
 <ul class='boxes'>
 <li class='list'>
-<a href='https://drive.google.com/file/d/1Sk26qQbDQT2IZOxDYe0C80_NrCL7E41y/view?usp=sharing' class='linked'>Descarga mi CV ⬇️</a>
+<a href='https://drive.google.com/file/d/1Sk26qQbDQT2IZOxDYe0C80_NrCL7E41y/view?usp=sharing' class='linked' target="_blank">Descarga mi CV ⬇️</a>
 </li>
 <li class='list'>
-<a href='https://www.linkedin.com/in/ane-acevedo/' class='linked'>Agrégame a tu red en LinkedIn 🌐</a>
+<a href='https://www.linkedin.com/in/ane-acevedo/' class='linked' target="_blank">Agrégame a tu red en LinkedIn 🌐</a>
 </li>
 </ul>
 </div>
@@ -60,7 +60,7 @@ Mis herramientras aliadas son:</p>
 </div>
 <div class='projects2'>
 <p class='innertxt'>Puedes revisar mis repositorios completos en mi GitHub:</p>
-<a href='https://github.com/aneacevedo'><img src='./img/gh.png' alt='github' class='mygh'></a>
+<a href='https://github.com/aneacevedo' target="_blank"><img src='./img/gh.png' alt='github' class='mygh'></a>
 
 </div>
 </div>
@@ -73,10 +73,10 @@ Mis herramientras aliadas son:</p>
     <h3 class='contact-txt'>Contáctame y trabajemos juntos!</h3>
 </div>
 <div class='contact'>
-    <a class='icon-link' href='mailto:ane.acevedos@gmail.com'>
+    <a class='icon-link' href='mailto:ane.acevedos@gmail.com' target="_blank">
         <img class='icons' src='./img/correo-color.png'> ane.acevedos@gmail.com
     </a>
-    <a class='icon-link' href='https://wa.me/56965069787'>
+    <a class='icon-link' href='https://wa.me/56965069787' target="_blank">
         <img class='icons' src='./img/wsp-color.png'> +56 9 6506 9787
     </a>
     <p class='icon-link'>
