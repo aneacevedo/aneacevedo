@@ -4,12 +4,17 @@ document.getElementById('root').innerHTML = `
     <h1 class="title">Anelisse Acevedo | Front-end Developer</h1>
 </header>
 </div>
+<div class='bodyCont'>
 <div class='myName'>
 <div class='text'>
     <h2 class='hello'>Hola Mundo! 🌎</h2>
-    <h2 class='present'>Mi nombre es Anelisse y soy desarrolladora Front-end.</h2>
+    <h2 class='present'>Mi nombre es Anelisse y soy
+    desarrolladora Front-end.</h2>
 </div>
-    <img src="./img/memoji.png" alt="Anelisse" class="emoji">
+<div class='myface'>
+<img src="./img/memoji.png" alt="Anelisse" class="emoji">
+</div>
+</div>
 </div>
 <div class='blur-bg'>
 <div class='box-about'>
